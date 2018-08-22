@@ -7,3 +7,5 @@
 - ~~Go~~
 - Python
 - Ruby
+- Rust
+- ~~Vue.js~~

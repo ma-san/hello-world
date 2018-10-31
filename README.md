@@ -7,7 +7,9 @@
 - ~~Go~~
 - ~~Java~~
 - ~~Kotlin~~
+- ~~PHP~~
 - ~~Python~~
 - ~~Ruby~~
 - ~~Rust~~
+- ~~Swift~~
 - ~~Vue.js~~

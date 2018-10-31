@@ -3,6 +3,7 @@
 - homebrew
 
 # 言語
+- ~~Cobol~~
 - ~~Elixir~~
 - ~~Go~~
 - ~~Java~~

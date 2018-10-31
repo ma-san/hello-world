@@ -5,7 +5,9 @@
 # 言語
 - ~~Elixir~~
 - ~~Go~~
-- Python
-- Ruby
-- Rust
+- ~~Java~~
+- ~~Kotlin~~
+- ~~Python~~
+- ~~Ruby~~
+- ~~Rust~~
 - ~~Vue.js~~

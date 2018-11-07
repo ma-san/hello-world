@@ -15,5 +15,6 @@
 1. ~~React.js~~
 1. ~~Ruby~~
 1. ~~Rust~~
+1. ~~Scala~~
 1. ~~Swift~~
 1. ~~Vue.js~~
